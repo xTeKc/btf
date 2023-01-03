@@ -1,4 +1,4 @@
-CC=clang
+CC=gcc
 CFLAGS=-Wall -Wextra -Werror -O2 -std=c17
 LDFLAGS=-lm
 
