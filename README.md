@@ -20,7 +20,7 @@ It will take you 7 hours and 22 minutes to finish the book.
 <br>
 
 ## Usage
-Build the binary with **clang**.
+Build the binary with **gcc**.
 ```
 make
 ```
